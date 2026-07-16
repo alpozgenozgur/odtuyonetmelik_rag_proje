@@ -56,8 +56,8 @@ Plain-language answer with article citation
 ### Setup
 
 ```bash
-git clone https://github.com/alpozgenozgur/odtu-yonetmelik-rag.git
-cd odtu-yonetmelik-rag
+git clone https://github.com/alpozgenozgur/odtuyonetmelik_rag_proje.git
+cd odtuyonetmelik_rag_proje
 
 python -m venv .venv
 .venv\Scripts\activate        # Windows
@@ -144,8 +144,8 @@ Madde referanslı, sade dilde cevap
 ### Kurulum
 
 ```bash
-git clone https://github.com/alpozgenozgur/odtu-yonetmelik-rag.git
-cd odtu-yonetmelik-rag
+git clone https://github.com/alpozgenozgur/odtuyonetmelik_rag_proje.git
+cd odtuyonetmelik_rag_proje
 
 python -m venv .venv
 .venv\Scripts\activate        # Windows
