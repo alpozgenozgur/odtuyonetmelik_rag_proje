@@ -1,0 +1,21 @@
+# Ortam değişkenleri (API anahtarı - ASLA yüklenmemeli)
+.env
+
+# Sanal ortam
+.venv/
+venv/
+
+# Chroma vektör veritabanı (yerel oluşuyor, gereksiz yer kaplar)
+.chroma/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# PyCharm
+.idea/
+
+# İşletim sistemi
+.DS_Store
+Thumbs.db
