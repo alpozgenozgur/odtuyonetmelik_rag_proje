@@ -1,3 +1,4 @@
+
 # ODTÜ Yönetmelik Asistanı | METU Regulations Assistant
 
 > A RAG-based chatbot that answers student questions about METU's Undergraduate Education Regulations, with article-level citations.
@@ -19,6 +20,8 @@ This bot reads the regulation, answers in plain Turkish, and **cites the article
 **Question:** Bir yarıyılda kaç dersten çekilebilirim?
 
 **Answer:** Madde 24'e göre, bir yarıyıl içinde en çok bir dersten çekilme işlemi yapabilirsiniz. Öğreniminiz boyunca ise toplamda en fazla altı dersten çekilebilirsiniz.
+
+<img width="1565" height="908" alt="Ekran görüntüsü 2026-07-18 011933" src="https://github.com/user-attachments/assets/2629ba6c-303d-4ea2-976a-a816954e2479" />
 
 ### How it works
 Regulation page (oidb.metu.edu.tr)
@@ -107,6 +110,8 @@ Bu bot yönetmeliği okuyup soruyu sade Türkçeyle cevaplıyor ve **hangi madde
 **Soru:** Bir yarıyılda kaç dersten çekilebilirim?
 
 **Cevap:** Madde 24'e göre, bir yarıyıl içinde en çok bir dersten çekilme işlemi yapabilirsiniz. Öğreniminiz boyunca ise toplamda en fazla altı dersten çekilebilirsiniz.
+
+<img width="1565" height="908" alt="Ekran görüntüsü 2026-07-18 011933" src="https://github.com/user-attachments/assets/2629ba6c-303d-4ea2-976a-a816954e2479" />
 
 ### Nasıl çalışıyor?
 Yönetmelik sayfası (oidb.metu.edu.tr)
